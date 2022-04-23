@@ -15,7 +15,7 @@ class Application extends Component{
                     <button class="number">9</button>
                     <button class="number">8</button>
                     <button class="number">7</button>
-                    <button class="action">X</button>
+                    <button class="action">x</button>
                 </div>
                 <div class="row">
                     <button class="number">6</button>
@@ -33,7 +33,7 @@ class Application extends Component{
                     <button class="number">0</button>
                     <button class="number">.</button>
                     <button class="action">=</button>
-                    <button class="action">/</button>
+                    <button class="action">÷</button>
                 </div>
             </div>
         )
